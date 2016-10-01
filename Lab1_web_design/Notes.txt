@@ -1,0 +1,7 @@
+Lab 1:
+	2.1: The controller that generates the Contact page is the ActionResult.
+	2.2: The data being generated is the message that is hard coded
+	2.4: It looks in the Views for the Controller, then it looks in the Index to find the correct View
+	3.3: An error page! :(
+	3.5: Not an error page! :)
+	3.8: Information about person - whatever the message was
